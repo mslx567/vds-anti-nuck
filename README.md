@@ -1,2 +1,1 @@
-# vds-anti-nuck
-power full loger an anti nuck system for vds
+this cod have auto run system
